@@ -6,7 +6,7 @@ Hi there! 👋 I'm **Rachid**, a passionate **Frontend Developer** with a knack 
 
 ## 🚀 Skills & Tools  
 **Frontend Development:**  
-- 💡 HTML | CSS | JavaScript  
+- 💡 HTML | CSS | JavaScript | TypeScript
 - ⚛️ React.js | Next.js  
 - 🎨 Tailwind CSS | Bootstrap | SCSS  
 
