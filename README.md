@@ -63,3 +63,9 @@ Engineered an image compression tool similar to TinyPNG.
 - 💼 [LinkedIn](https://www.linkedin.com/in/rachid-saadi-a704482b3/)  
 
 Let’s collaborate to create something amazing! 🚀  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
