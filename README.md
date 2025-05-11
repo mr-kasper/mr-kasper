@@ -1,5 +1,17 @@
 # 💫 About Me:
-Hi there! 👋 I'm Rachid, a results-driven Frontend Developer passionate about crafting high-performance, user-friendly web applications. With a keen eye for detail and a deep understanding of modern web technologies, I specialize in transforming designs into interactive, pixel-perfect experiences. My journey in web development is fueled by continuous learning, performance optimization, and building impactful digital solutions.
+## Hi there! 👋 I'm Rachid
+
+I'm a results-driven **Full-Stack Developer** passionate about building high-performance, scalable web applications from front to back.
+
+### 🔧 Tech Stack
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, NestJS, PHP, Laravel, GraphQL, REST APIs
+- **Database & ORM:** MySQL, PostgreSQL, Prisma, Drizzle
+
+With a strong foundation in **modern web development**, I specialize in transforming complex requirements and UI designs into responsive, pixel-perfect user experiences — while architecting clean, maintainable backend systems.
+
+### 🚀 What Drives Me
+I thrive on creating impactful digital products that prioritize performance, usability, and scalability. I'm a firm believer in continuous learning, clean code, and solving real-world problems with modern technology.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rachid-saadi-a704482b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rachidwork5050@gmail.com) 
